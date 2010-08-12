@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
      "Rakefile",
      "VERSION",
      "lib/songkick.rb",
+     "songkick.gemspec",
      "test/helper.rb",
      "test/test_songkick.rb"
   ]
