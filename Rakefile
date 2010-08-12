@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "songkick"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{Ruby wrapper for Songkick API}
+    gem.description = %Q{learn more about songkick API at http://www.songkick.com/developer}
     gem.email = "tanzi.marco@gmail.com"
     gem.homepage = "http://github.com/mtanzi/songkick"
     gem.authors = ["mtanzi"]
