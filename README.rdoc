@@ -1,6 +1,5 @@
-= songkick
+= Ruby wrapper for songkick gem
 
-Ruby wrapper for songkick gem,
 learn more about songkick API at http://www.songkick.com/developer
 
 == Copyright
